@@ -1,0 +1,24 @@
+/*               Weight-Conversion */
+
+body{
+    /* background: linear-gradient(to right, green, red); */
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 30rem;
+    background-color: rgb(94, 58, 4);
+    color: rgb(223, 16, 85);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 20px;
+margin-top: 50px;
+}
+input{
+    width: 60%;
+    height: 50px;
+    outline: 2px solid rgb(223, 16, 85);
+    font-size: 25px;
+    color: rgb(223, 16, 85);
+
+}
